@@ -3,3 +3,8 @@ node_modules
 .parcel-cache
 .DS_Store
 dist
+
+# Parcel will create these
+# Rename package.json.sandbox in codesandbox
+package.json
+package-lock.json
